@@ -1,0 +1,190 @@
+*{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box {
+    background-color: rgb(153, 30, 210);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box:hover {
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box1 {
+    background-color: rgb(132, 210, 30);
+    width: 200px;
+    height: 200px;
+    margin: 5%;
+    margin: 5%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box1:hover {
+    background-color: rgb(100, 237, 173);
+    width: 400px;
+    height: 444px;
+    margin: 4% 4%;
+}
+
+.box2 {
+    background-color: rgb(238, 223, 85);
+    width: 200px;
+    height: 200px;
+    margin: 6%;
+    margin: 6%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box2:hover {
+    background-color: rgb(224, 182, 66);
+    width: 400px;
+    height: 444px;
+    margin: 5% 5%;
+}
+
+.box3 {
+    background-color: rgb(192, 210, 30);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box3:hover {
+    background-color: rgb(65, 163, 40) width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+    width: 400px;
+}
+
+.box4 {
+    background-color: rgb(219, 73, 117);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box4:hover {
+    background-color: rgb(184, 237, 100);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box5 {
+    background-color: rgb(147, 210, 30);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box5:hover {
+    background-color: rgb(90, 13, 141);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box6 {
+    background-color: rgb(185, 130, 12);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box6:hover {
+    background-color: rgb(42, 185, 24);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box7 {
+    background-color: rgb(243, 162, 108);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box7:hover {
+    background-color: rgb(100, 194, 237);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box8 {
+    background-color: rgb(225, 247, 35);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box8:hover {
+    background-color: rgb(113, 21, 218);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box9 {
+    background-color: rgb(86, 112, 122);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box9:hover {
+    background-color: rgb(75, 19, 139);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}
+
+.box10 {
+    background-color: rgb(119, 185, 12);
+    width: 200px;
+    height: 200px;
+    margin: 4%;
+    margin: 4%;
+    transition: all 0.8s;
+    overflow: scroll;
+}
+
+.box10:hover {
+    background-color: rgb(120, 96, 146);
+    width: 400px;
+    height: 444px;
+    margin: 3% 3%;
+}

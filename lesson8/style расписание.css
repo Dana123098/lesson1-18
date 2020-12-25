@@ -1,0 +1,109 @@
+
+
+{
+    box-sizing: border-box;
+}
+.pastcard {
+    position: relative;
+    max-width: 720px;
+    margin: 90px auto 0;
+    text-align: center;
+    border-radius: 82px;
+    box-shadow: 0 0 20px 1px rgb(235, 210, 98);
+    padding: 0 90px 10px;
+    margin-top: 25px;
+    background: #b940b3;
+  }
+  .form-inner:before {
+    display: inline-block;
+    margin-top: -45px;
+    content: url(./flower-form-250x250.png);
+  }
+  .fieldset {
+    padding: 0 90px 10px;
+    margin-top: 25px;
+    background: #ffffff;
+    border-radius: 82px;
+    box-shadow: 0 0 6px 1px rgba(236, 13, 13, 0.932);
+  }
+   h3 {
+    font-family: 'Marck Script', cursive;
+    font-size: 22px;
+    color: #898989;
+    font-weight: normal;
+
+  }
+body {
+    background: #dcacfc;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-row {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.form-row input {
+    display: block;
+    width: 100%;
+    padding: 0 10px;
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
+    background: none;
+    border-width: 0;
+    border-bottom: 2px solid #4a90e2;
+    transition: all 0.2s ease;
+}
+h1{
+    font-family: 'Marck Script', cursive;
+    font-size: 52px;
+    
+    font-weight: normal;
+}
+
+
+.form-row label {
+    position: absolute;
+    left: 13px;
+    color: #9d959d;
+    font-size: 10px;
+    font-weight: 300;
+    transform: translateY(-35px);
+    transition: all 0.2s ease;
+}
+
+.form-row input:focus {
+    outline: 0;
+    border-color: #d6eb1c;
+}
+legend{
+    color: rgb(243, 222, 35);
+}
+h3{
+    color: darkorange;
+}    
+input{
+    color: rgb(170, 26, 86);
+    background-color: rgb(230, 157, 193);
+    height: 50px;
+    margin: 20px 0;
+  padding: 0 10px;
+  background: #e9d309;
+  color: #ffffff;   
+  font-size: 18px;
+  text-transform: uppercase;
+  border-width: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: .2s linear
+  
+
+}    
+fieldset{
+    background-color: #883cbb;
+    margin-bottom: 20px color #340a50;
+}                       
+
+                                    
+text-transform: uppercase;
+                                    

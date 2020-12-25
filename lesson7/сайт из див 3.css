@@ -1,0 +1,53 @@
+.head{
+    background-color: rgb(160, 66, 168);
+    height: 200px;
+    margin-bottom: 10px;
+}
+.sidebar-1{
+    background-color: rgb(54, 155, 180);
+    height: 500px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+    
+    
+}
+.sidebar-2{
+    background-color: rgb(54, 155, 180);
+    height: 500px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+    
+    
+}
+.content{
+    background-color: rebeccapurple;
+    height: 500px;
+    margin-bottom: 10px;
+    width: 69.5%;
+    float: left;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+.footer{
+    background-color: rgb(229, 241, 54);
+    height: 200px;
+    clear: both;
+    
+}
+.u:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+img{
+    width: 400px;
+    border: 10px rgb(207, 204, 38);
+    margin: left;
+    border-radius: 300px;
+
+}
+.content p{
+    color: darkorange;
+}

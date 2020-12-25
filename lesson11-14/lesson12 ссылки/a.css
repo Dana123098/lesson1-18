@@ -1,0 +1,211 @@
+
+
+.r1 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r1:hover {
+    color: rgb(95, 0, 139);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r1:active {
+    color: rgb(22, 223, 230);
+}
+
+.r1:visited {
+    color: rgb(219, 231, 41);
+}
+
+.r2 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r2:hover {
+    color: rgb(84, 226, 65);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r2:active {
+    color: rgb(158, 184, 44);
+}
+
+.r2:visited {
+    color: rgb(221, 104, 57);
+}
+
+.r3 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r3:hover {
+    color: rgb(156, 24, 24);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r3:active {
+    color: rgb(208, 255, 0);
+}
+
+.r3:visited {
+    color: rgb(154, 122, 197);
+}
+
+.r4 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r4:hover {
+    color: rgb(190, 13, 146);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r4:active {
+    color: rgb(0, 183, 255);
+}
+
+.r4:visited {
+    color: rgb(197, 167, 122);
+}
+
+.r5 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r5:hover {
+    color: rgb(24, 156, 127);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r5:active {
+    color: rgb(0, 255, 64);
+}
+
+.r5:visited {
+    color: rgb(30, 44, 177);
+}
+
+.r6 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r6:hover {
+    color: rgb(24, 136, 156);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r6:active {
+    color: rgb(255, 94, 0);
+}
+
+.r6:visited {
+    color: #a159ff;
+}
+
+.r7 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r7:hover {
+    color: rgb(112, 14, 14);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r7:active {
+    color: rgb(0, 255, 191);
+}
+
+.r7:visited {
+    color: rgb(86, 21, 170);
+}
+
+.r8 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r8:hover {
+    color: rgb(245, 18, 18);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r8:active {
+    color: rgb(137, 32, 197);
+}
+
+.r8:visited {
+    color: rgb(219, 178, 63);
+}
+
+.r9 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r9:hover {
+    color: rgb(247, 66, 66);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r9:active {
+    color: rgb(208, 255, 0);
+}
+
+.r9:visited {
+    color: rgb(175, 118, 111);
+}
+
+.r10 {
+    text-decoration: none;
+    transition: all 0.8s;
+}
+
+.r10:hover {
+    color: rgb(156, 24, 24);
+    font-size: 60px;
+    height: 50px;
+    width: 100px;
+    transition: all 0.8s;
+}
+
+.r10:active {
+    color: rgb(193, 226, 47);
+}
+
+.r10:visited {
+    color: rgb(226, 192, 192);
+}

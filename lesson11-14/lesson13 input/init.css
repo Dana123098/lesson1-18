@@ -1,0 +1,76 @@
+input:focus {
+    outline: none;
+    border: rgb(219, 131, 131) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(100, 9, 57) 1px 10px;
+}
+
+.q1:focus {
+    outline: none;
+    border: rgb(252, 197, 47) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(59, 255, 20) 1px 10px;
+}
+
+.q2:focus {
+    outline: none;
+    border: rgb(93, 179, 157) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(76, 7, 122) 1px 10px;
+}
+
+.q3:focus {
+    outline: none;
+    border: rgb(160, 223, 88) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(221, 236, 12) 1px 10px;
+}
+
+.q4:focus {
+    outline: none;
+    border: rgb(228, 89, 181)) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(228, 89, 181) 1px 10px;
+}
+
+.q5:focus {
+    outline: none;
+    border: rgb(84, 209, 59)2) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(174, 175, 103) 1px 10px;
+}
+
+.q6:focus {
+    outline: none;
+    border: rgb(187, 121, 121) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(218, 215, 54) 1px 10px;
+}
+
+.q7:focus {
+    outline: none;
+    border: rgb(144, 219, 201) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(115, 6, 184) 1px 10px;
+}
+
+.q8:focus {
+    outline: none;
+    border: rgb(132, 223, 200) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(167, 102, 197) 1px 10px;
+}
+
+.q9:focus {
+    outline: none;
+    border: rgb(197, 130, 175) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(146, 103, 175) 1px 10px;
+}
+
+.q10:focus {
+    outline: none;
+    border: rgb(224, 196, 70) 3px solid;
+    border-radius: 2%;
+    box-shadow: rgb(201, 134, 228) 1px 10px;
+}

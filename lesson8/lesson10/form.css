@@ -1,0 +1,79 @@
+* {box-sizing: border-box;}
+body {background: #ecaae1;}
+.wedding {
+  position: relative;
+  max-width: 320px;
+  margin: 50px auto 0;
+  text-align: center;
+  border-radius: 60px;
+}
+.form-inner:before {
+  display: inline-block;
+  margin-top: -45px;
+}
+.form-inner {
+  padding: 0 40px 10px;
+  margin-top: 45px;
+  background: #6f4470;
+  border-radius: 2px;
+  box-shadow: 0 0 6px 1px rgba(0,0,0,.1);
+  border-radius: 60px;
+}
+.form-inner h2 {
+  font-weight: 300;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: 'Cormorant Garamond', serif;
+}
+.form-content {
+  position: relative;
+  margin: 30px -40px 0 -40px;
+  padding: 10px 40px 0 40px;
+  background-color: rgb(226, 212, 133);
+  border-radius: 60px;
+}
+.form-content:before {
+  content: "";
+  position: absolute;
+  top: -4px;
+  right: 0;
+  left: 0;
+  height: 2px;
+  border-top: 1px solid #69488f;
+  border-bottom: 1px solid #8f558f;
+  border-radius: 60px;
+}
+.form-content h3 {
+  font-family: 'Marck Script', cursive;
+  font-size: 22px;
+  color: #ec9829;
+  font-weight: normal;
+}
+.form-content input,
+.form-content select {
+  height: 38px;
+  line-height: 38px;
+  padding: 0 10px;
+  background: #be86cf;
+  border: 1px solid #DDDDDD;
+  font-size: 20px;
+  font-family: 'Cormorant Garamond', serif;
+  color: #6f8f26;
+  outline: none;
+  border-radius: 60px;
+}
+.form-content input {width: 100%;}
+.form-content input:focus,
+.form-content select:focus {border-color: #83375d;}
+.form-content input[type="submit"] {
+  margin: 20px 0;
+  padding: 0 10px;
+  background: #c288c7;
+  color: #9f4ba1;   
+  font-size: 18px;
+  text-transform: uppercase;
+  border-width: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: .2s linear}
+.form-content input[type="submit"]:hover {background: #C44D58;}
