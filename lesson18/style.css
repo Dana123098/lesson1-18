@@ -1,0 +1,188 @@
+.telo{
+    background-color: gold;
+    width: 300px;
+    height: 303px;
+      margin: auto auto;
+    margin-top: 300px;
+    border:3px solid gold;
+    border-radius: 90% 80% 50% 50%;
+    display: block;
+    z-index: 2;
+    background: radial-gradient(rgb(238, 222, 133), gold);
+}
+.ten{
+    background-color: rgb(139, 101, 19);
+    width: 300px;
+    height: 100px;
+      margin: auto auto;
+    margin-top: 210px;
+    border:3px solid rgb(158, 131, 43);
+    border-radius: 80% ;
+    display: block;
+    z-index: 2;
+}
+.krulo1{
+    width: 70px;
+    height: 200px;
+    background-color: rgb(139, 101, 19);
+    border-radius: 50% 50% 50% 50%;
+    border:3px solid rgb(158, 131, 43);
+    position: relative;
+    bottom: 280px;
+    z-index: -1;
+    left: 1040px;
+    right: 90px;
+    transform: rotate(45deg);
+    background-image: linear-gradient(145deg,  rgb(204, 185, 79), rgb(100, 77, 26), #3c2c07e5);
+}
+.krulo2{
+    width: 70px;
+    height: 200px;
+    background-color: gold;
+    border-radius: 50% 50% 50% 50%;
+    border:3px solid gold;
+    position: relative;
+    bottom: 480px;
+    z-index: -1;
+    left: 690px;
+    transform: rotate(135deg);
+}
+.rot{
+   
+    position: relative;
+    
+}
+.rot1{
+    width: 15px;
+    height: 30px;
+    background-color: rgb(255, 89, 0);
+    border-radius: 80% 10% 30%;
+    position: absolute;
+    bottom: 260px;
+    left: 1000px;
+    transform: rotate(65deg);
+     
+
+}
+.rot2{
+    width: 15px;
+    height: 30px;
+    background-color: rgb(255, 89, 0);
+    border-radius: 80% 10% 30%;
+    position: absolute;
+    bottom: 240px;
+    left: 1000px;
+    transform: rotate(65deg);
+     z-index: 2;
+
+}
+.glaz{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(245, 245, 245);
+    border:2px solid rgb(0, 0, 0);
+    border-radius: 100%;
+    position: absolute;
+    bottom: 630px;
+    left: 939px;
+    transform: rotate(65deg);
+    
+
+}
+.azuk{
+    width: 7px;
+    height: 20px;
+    background-color: rgb(223, 0, 0);
+    
+    border-radius: 100%;
+    position: absolute;
+    bottom: 617px;
+    left: 1009px;
+    transform: rotate(65deg);
+    background-image: linear-gradient(145deg,  rgb(240, 115, 115), rgb(187, 69, 48), #7c0404e5);
+    
+}
+.noga1{
+    width: 15px;
+    height: 80px;
+    background-color: rgb(223, 100, 0);
+    
+    border-radius: 30% 30% 80% 80%;
+    position: absolute;
+    bottom: 317px;
+    left: 1009px;
+    
+    
+}
+.noga2{
+    width: 15px;
+    height: 80px;
+    background-color: rgb(223, 100, 0);
+    
+    border-radius: 30% 30% 80% 80%;
+    position: absolute;
+    bottom: 317px;
+    left: 879px;
+    
+}
+.noga01{
+    width: 10px;
+    height: 30px;
+    background-color: rgb(181, 81, 0);
+    
+    border-radius: 100%;
+    position: absolute;
+    bottom: -10px;
+    left: 13px;
+    transform: rotate(65deg);
+}
+.noga02{
+    width: 10px;
+    height: 30px;
+    background-color: rgb(181, 81, 0);
+    
+    border-radius: 100%;
+    position: absolute;
+    bottom: -10px;
+    left: 13px;
+    transform: rotate(65deg);
+}
+.ten1{
+    width: 10px;
+    height: 50px;
+    background-color: rgb(7, 5, 3);
+    
+    border-radius: 100%;
+    position: absolute;
+    bottom: 270px;
+    left: 893px;
+    transform: rotate(75deg);
+}
+.ten2{
+    width: 10px;
+    height: 50px;
+    background-color: rgb(7, 5, 3);
+    
+    border-radius: 100%;
+    position: absolute;
+    bottom: 270px;
+    left: 1003px;
+    transform: rotate(75deg);
+}
+.ten3{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(48, 37, 26);
+    
+    border-radius: 100%;
+    position: absolute;
+    bottom: 250px;
+    left: 783px;
+    transform: rotate(2deg);
+    z-index: -1;
+}
+
+
+
+
+
