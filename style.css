@@ -1,0 +1,76 @@
+body{
+    background-color: rgba(199, 229, 233, 0.712);
+}
+
+.fab{
+    font-size: 100px;
+    color: rgb(249, 251, 255);
+    border-radius: 100% solid rgb(142, 142, 202);
+    margin-top: 25px;
+}
+.pastcard {
+    position: relative;
+    max-width: 220px;
+    margin: 90px auto 0;
+    text-align: center;
+    
+   
+    padding: 0 90px 10px;
+    margin-top: -55px;
+    background: #ffffff;
+  }
+  .box2{
+      width: 100%;
+      height: 200px;
+      color: rgb(25, 25, 88);
+      background-color: rgb(50, 50, 121);
+
+  }
+  .box3{
+      width: 150px;
+      height: 150px;
+      background-color: rgb(25, 25, 88);
+      margin-bottom: 100%;
+      border-radius: 82px;
+}
+h5{
+color: rgb(118, 123, 133);
+
+}
+.box5{
+    position: relative;
+    max-width: 210px;
+    margin: 90px auto 0;
+    text-align: center;
+    
+   
+    padding: 0 90px 10px;
+    margin-top: 40px;
+    background: rgba(199, 229, 233, 0.712);
+}
+
+}
+h6{
+    color: steelblue;
+}
+.form-row input:focus {
+    outline: 0;
+    border-color: #d6eb1c;
+}
+.wrap-input100{
+    display: block;
+    width: 100%;
+    padding: 0 10px;
+    line-height: 40px;
+    font-family: 'Roboto', sans-serif;
+    background: none;
+    border-width: 0;
+    border-bottom: 2px solid #ffffff;
+    transition: all 0.2s ease;
+}
+.box2 h1{
+    color: rgb(249, 251, 255);
+    margin-top: -26px;
+    
+}
+  
