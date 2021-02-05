@@ -1,0 +1,26 @@
+
+
+.box1{
+    background-color: mediumblue;
+    width: 1469px;
+    height: 266px;
+    position: relative;
+    top: 13px;
+    margin-left: 208px;
+}
+.box2{
+    background-color: orangered;
+    width: 254px;
+    height: 538px;
+    position: relative;
+    top: 30px;
+    margin-left: 204px;
+}
+.box3{
+    background-color: yellowgreen;
+    width: 1183px;
+    height: 539px;
+    position: relative;
+    top: -509px;
+    margin-left: 484px;
+}
