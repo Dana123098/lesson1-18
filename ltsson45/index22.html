@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+</head>
+<body>
+   
+    <script src="./aframe.min.js"></script>
+    <a-scene>
+        <a-entity position="0 30 100">
+            <a-camera></a-camera>
+        </a-entity>
+        <a-sky src="https://lh3.googleusercontent.com/proxy/3BC0zzauLwbnaqevyHHukrO-JTvtAJDEL7P7ri_mVHgynLpTDAxFPF1MHcE3rm7RYnne4yh5mwjaXG7hO7dMMfVBAEYRecWD96lrBDD6Yn128IaRhvJl68tXQ5ylqRxQ=w1200-h630-p-k-no-nu"></a-sky>
+        <a-entity>
+            <a-sphere crc="https://cosmos-online.ru/wp-content/uploads/2018/10/venus_atmosphere.jpg" radius="20" position="0 -10 -50"></a-sphere>
+            <a-ring src="https://demiart.ru/forum/image.php?i=forum/uploads1/post-2483-1217131971.jpg"  color="teal" position="0 -10 -50" radius-inner="23" rotation="-90 0 0" radius-outer="30"></a-ring>
+            <a-animation attribute="rotation" dur="1000" from="0 0 0" to="0 360 0" repeat="indefinite" delay="0" easing="linear"></a-animation>
+        </a-entity>
+    </a-scene>
+</body>
+</html>
