@@ -1,0 +1,21 @@
+// let a = document.getElementById("text3");
+// // b = a.innerHTML;
+// // a.innerHTML = "здесь был Параграф 3";
+// // b = b + "A";
+// // alert(b);
+// // a.innerHTML = "dena go";
+// // console.log(a.innerHTML);
+// // let l = document.getElementsByClassName("biba");
+// // console.log(l);
+// a.setAttribute("class", "n");
+
+let a = document.getElementById("imgg0");
+let l = document.getElementById("imgg1");
+let t = document.getElementById("imgg2");
+let k = document.getElementById("imgg3");
+let d = document.getElementById("imgg4");
+a.setAttribute("class", "b");
+l.setAttribute("class", "gg");
+t.setAttribute("class", "uu");
+k.setAttribute("class", "ii");
+d.setAttribute("class", "yy");

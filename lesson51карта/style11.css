@@ -1,0 +1,146 @@
+.box {
+  background-color: rgb(60, 156, 212);
+  width: 100%;
+  height: 1200px;
+}
+.box1 {
+  background-color: aliceblue;
+  width: 500px;
+  height: 600px;
+  margin-left: 650px;
+  position: relative;
+  top: 300px;
+}
+.input1003 {
+  height: 40px;
+  width: 400px;
+  background-color: #ecf8ffec;
+  margin-left: 50px;
+}
+.wrap-input1003 {
+  position: relative;
+  top: 230px;
+  font-family: "Exo", sans-serif;
+  transition: all 0.2s ease;
+}
+.h11 {
+  text-align: center;
+  position: relative;
+  top: 230px;
+  color: rgb(149, 145, 145);
+  font-size: 22px;
+}
+.h12 {
+  text-align: center;
+  position: relative;
+  top: 230px;
+  color: rgb(149, 145, 145);
+  font-size: 22px;
+}
+.select1 {
+  position: relative;
+  top: 230px;
+  margin-left: 50px;
+  width: 100px;
+  height: 40px;
+  background-color: #f2faffec;
+}
+.h13 {
+  position: relative;
+  top: 240px;
+  color: rgb(149, 145, 145);
+  font-size: 22px;
+  margin-left: 50px;
+}
+.select2 {
+  position: relative;
+  top: 230px;
+  margin-left: 50px;
+  width: 100px;
+  height: 40px;
+  background-color: #f2faffec;
+}
+.input1001 {
+  position: relative;
+  margin-left: 0px;
+  width: 100px;
+  height: 40px;
+  background-color: #f2faffec;
+}
+.input100 {
+  height: 35px;
+  width: 100px;
+  background-color: #ecf8ffec;
+  margin-left: 350px;
+}
+.wrap-input1001 {
+  position: relative;
+  top: 180px;
+  font-family: "Exo", sans-serif;
+  transition: all 0.2s ease;
+}
+.box2 {
+  width: 450px;
+  height: 250px;
+  background-color: rgb(37, 35, 35);
+  border-radius: 10px;
+  position: relative;
+  top: -400px;
+  margin-left: 670px;
+  box-shadow: 20px 20px 20px rgb(116, 115, 115);
+}
+.karta {
+  height: 250px;
+  position: relative;
+  margin-left: 100px;
+}
+.zzz {
+  width: 70px;
+  height: 40px;
+  position: relative;
+  top: -170px;
+  margin-left: -180px;
+}
+.textbox2 {
+  color: aliceblue;
+  position: relative;
+  top: -250px;
+  margin-left: 230px;
+}
+.box02 {
+  width: 350px;
+  height: 40px;
+  background-color: rgb(37, 35, 35);
+  border-radius: 5px;
+  border: 2px solid white;
+  top: -230px;
+  position: relative;
+  margin-left: 30px;
+}
+.h21 {
+  position: relative;
+  top: -210px;
+  color: rgb(149, 145, 145);
+  font-size: 16px;
+  margin-left: 20px;
+}
+.h22 {
+  position: relative;
+  top: -240px;
+  color: rgb(149, 145, 145);
+  font-size: 16px;
+  margin-left: 340px;
+}
+.date {
+  color: aliceblue;
+  position: relative;
+  top: -250px;
+  margin-left: 330px;
+  font-size: 24px;
+}
+.cvv {
+  position: relative;
+  top: 80px;
+  color: rgb(149, 145, 145);
+  margin-left: 360px;
+}
